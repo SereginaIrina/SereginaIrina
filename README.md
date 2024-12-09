@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 My name is Irina</h1>
 
 
-<h1 align="center">Data Analyst | SQL | Power BI | Python | Data Analysis | Visualization</h1>
+<h2 align="center">Data Analyst | SQL | Power BI | Python | Data Analysis | Visualization</h2>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###

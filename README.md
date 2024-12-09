@@ -1,9 +1,9 @@
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/3b7928de-45dc-4682-b3b1-db8becb59991)/>
+ <img src="https://github.com/user-attachments/assets/3b7928de-45dc-4682-b3b1-db8becb59991"/>
 </p>
 
-![shutterstock_1770654182_d43667c1bc](https://github.com/user-attachments/assets/3b7928de-45dc-4682-b3b1-db8becb59991)
+
 
 
 <h1 align="center">Hi 👋 My name is Irina</h1>

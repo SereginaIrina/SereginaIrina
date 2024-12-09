@@ -1,5 +1,7 @@
 
-![shutterstock_1770654182_d43667c1bc](https://github.com/user-attachments/assets/9d629567-715a-47e7-adee-e3f8e99294a4)
+![shutterstock_1770654182_d43667c1bc](https://github.com/user-attachments/assets/dd9e1fef-4ccb-4f07-89e0-aa2fb59d9481)
+
+
 
 Hi 👋 My name is Irina
 

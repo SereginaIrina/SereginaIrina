@@ -18,7 +18,7 @@ Data Analyst who completed the Google Data Analytics Professional Certificate, s
   
 *  📚  Courses/Certifications: <br>- Google Data Analytics Professional Certificate <br>- Python Data Analysis & Visualization Masterclass
    <br>- Complete Microsoft Power BI Bootcamp <br>- The Complete SQL Masterclass <br>- Microsoft Excel: Data Analysis with Excel Pivot Tables <br>- Microsoft Excel: Advanced Excel Formulas & Functions
-*  ⚡ Working as Freelance Data Analyst on Volunteer projects </p>
+*  ⚡ Studying and working as Freelance Data Analyst on Volunteer projects </p>
 
 ### Skills
 

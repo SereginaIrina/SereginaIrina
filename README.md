@@ -23,13 +23,13 @@ Data Analyst who completed the Google Data Analytics Professional Certificate, s
 ### Skills
 
 <div align="left">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" height="40" alt="rlang"  />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"width="34" height="34" alt="PostgreSQL"  />
+ <img width="2" />
+ <img src="https://github.com/user-attachments/assets/5ce1ae50-f3bf-4e95-81c2-3ba9726bf6e6" width="36" height="36" alt="javascript logo"  />
  <img width="2" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"  />
   <img width="2" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"width="34" height="34" alt="PostgreSQL"  />
- <img width="2" />
- <img src="https://github.com/user-attachments/assets/5ce1ae50-f3bf-4e95-81c2-3ba9726bf6e6" width="36" height="36" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" height="40" alt="rlang"  />
  <img width="2" />
 </div>
 
